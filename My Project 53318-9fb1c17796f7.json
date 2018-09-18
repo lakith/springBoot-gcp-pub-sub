@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "black-pier-216803",
+  "private_key_id": "9fb1c17796f7195ebb4c329dc24bac520eeeb080",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDgGW/1M1/kzJsh\nribcZZR75BiO7WO1P0jxJCXJu4ccdQC9Gs0w5vJyEcK4of514kztTropoXZyqQXZ\n07tsmAHtHAehqEnef4KimnpF+Ar0a5GZEOmAf/7PLJE1xYfntTHiariPh0y6p7x6\nsflpJQ3Qvep/xW+HsMQBJOTS//OFVdh7svddqaJb2+bCjENTMYdNUqqQgYCJA/RM\ncuIOyBG9gMPhmZGnT1GQGjl1TXz1H/AtQHXJPsevJimIJnUDVgoJ68YTQeieD4gp\nJtLGo5sGsOKaPoViyaTwNbz/1tHhjQd/oybRO0WZ0JdL8bQ1oUqAORQXyRnTk26s\nD5UCIPYLAgMBAAECggEAAIt3i1blYCvCpna665WI7MclmQpSP5IyXOidjkHEe+Zr\nf21J/rwmKDjFFvbI80oHMemGyyvTOA1+wJDH8tz1KKDTn2gdS8s1bwcuuX7SIg+5\nh5Ds3MheOwUXlnDxGxdCe5/x0153tM0awFuLPnv3pBUTqTguNCqItzEoYcScr34Q\n3Z9eDCmv1WronCYsCGgN/TrdfCXgRonfzMdzSNFjaEIBrRVgMqDFsTCEjpxnQETr\neQCerhgqalWwK9KWjdLiVKKadWYCBNeI1FRlUIhTgLAtFOuXIJR2VKwwRYAYS++C\nkH7hc2DHzy8JRLcm/hGa6gbU+D9W648ZVZUupI57gQKBgQD15XTQiOcc4opmL9+q\n4cGGpkxBkz8AVVSkpvzI+kpIBxAS2m+2/g/3o/fK+vn9fZGVOuivbw2IT9zE0vL9\nx68ZDk+osNxmHFJTOUwT0TUihohgY9laQpa7s5hA1yNWMxNcnGJMSzPJPKcT9I7r\nHzJUdGxAbSdWmQANbAlrVXuIywKBgQDpTrPSrz7SLGYJDvSpPYQ0FFB4XMbfvIpu\nyNLT3hMrd4ZO3km+33Xh/fBAFpzNo1bKgtu7W0UBgnhRb02bKjTRTugoXrFKt6L9\nR6jVNNReTVw+hSMcBzOSqtuDtUB7eh/Q7HAovM6v/pvn+/OOXoFJDRbZZWfAioW2\nTNN4nsLfwQKBgEuWl4wrKXBVq1mySb1L3KO5pyNZUjqWAIkE1Bwr5H2zvhstjr3f\n56SmgNuivwpPeVs4WqLjLnPCqQjQF+YvZgH7xj0C8R1qg1wV9u74lq7gUDfhOcVn\nRtK4aIs2FyS+WqtTX1w4mdi4jluyB+T7GAuiJky/wSH7smpt1Y9rHah1AoGACjwc\noWJ0tA2kkEMqsn3zXcGCYjVXuBryS7fdn9O/LYn5x13zCD+PUVGth3I2gMLonMuu\nzgJL/av2kUP7uJHabVAz2QmGZ4u0x72sB2Zg5p4oLMn0Z1ddiNKb/KQn5wLNgIHO\nzcqymn/l4QBph9ZXf5fmZ7UOHyE0inHGWSVF0UECgYB7BlFMU+Fko1CTx2Af98Yu\nWJEZkerMkd/26rmGQGC4APS7EXnSycbC4NUiFPj8deVhvrK3Ij916nU7RxYapFn2\n5o0zy4dNPrhmTzK4WEtrnMVx23u2YagRDbTxvYF5rAzk8dY6QQTXZKZfjZDUkmgC\nWryzEpAnWJv1N5My8+EAQA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pubsubtest@black-pier-216803.iam.gserviceaccount.com",
+  "client_id": "112636042072673392016",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pubsubtest%40black-pier-216803.iam.gserviceaccount.com"
+}
